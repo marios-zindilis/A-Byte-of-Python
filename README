@@ -7,3 +7,6 @@ For the original: http://www.swaroopch.com/notes/Python
  hello-world-el.py - 4, Πηγαίος κώδικας με ελληνικά 
  variable.py       - 5, Αντικείμενα
  white-space.py    - 5, Εσοχή κώδικα
+ expression.py     - 6, Εκφράσεις
+ if.py             - 7, Χρήση της εντολής if 
+
