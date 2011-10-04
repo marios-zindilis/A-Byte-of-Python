@@ -15,3 +15,5 @@ For the original: http://www.swaroopch.com/notes/Python
  continue.py            - 7, Χρήση της εντολής continue
  function1.py           - 8, Χρήση των συναρτήσεων
  function-parameters.py - 8, Παράμετροι συναρτήσεων 
+ function-locals.py     - 8, Χρήση τοπικών μεταβλητών 
+ function-global.py     - 8, Χρήση της εντολής global 
