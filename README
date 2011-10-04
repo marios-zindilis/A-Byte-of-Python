@@ -3,13 +3,15 @@ For the book see: http://zindilis.com/docs/A_Byte_of_Python
 For the original: http://www.swaroopch.com/notes/Python
 
 Κατάλογος σεναρίων, κεφάλαιο και παράγραφος:
- hello-world.py    - 4, Χρήση αρχείων πηγαίου κώδικα 
- hello-world-el.py - 4, Πηγαίος κώδικας με ελληνικά 
- variable.py       - 5, Αντικείμενα
- white-space.py    - 5, Εσοχή κώδικα
- expression.py     - 6, Εκφράσεις
- if.py             - 7, Χρήση της εντολής if 
- while.py          - 7, Χρήση της εντολής while 
- for.py            - 7, Χρήση της εντολής for 
- break.py          - 7, Χρήση της εντολής break
- continue.py       - 7, Χρήση της εντολής continue
+ hello-world.py         - 4, Χρήση αρχείων πηγαίου κώδικα 
+ hello-world-el.py      - 4, Πηγαίος κώδικας με ελληνικά 
+ variable.py            - 5, Αντικείμενα
+ white-space.py         - 5, Εσοχή κώδικα
+ expression.py          - 6, Εκφράσεις
+ if.py                  - 7, Χρήση της εντολής if 
+ while.py               - 7, Χρήση της εντολής while 
+ for.py                 - 7, Χρήση της εντολής for 
+ break.py               - 7, Χρήση της εντολής break
+ continue.py            - 7, Χρήση της εντολής continue
+ function1.py           - 8, Χρήση των συναρτήσεων
+ function-parameters.py - 8, Παράμετροι συναρτήσεων 
