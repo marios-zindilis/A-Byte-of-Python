@@ -3,5 +3,7 @@ For the book see: http://zindilis.com/docs/A_Byte_of_Python
 For the original: http://www.swaroopch.com/notes/Python
 
 Κατάλογος σεναρίων, κεφάλαιο και παράγραφος:
- hello-world.py   - 4, Χρήση αρχείων πηγαίου κώδικα 
- hello-world-py   - 4, Πηγαίος κώδικας με ελληνικά 
+ hello-world.py    - 4, Χρήση αρχείων πηγαίου κώδικα 
+ hello-world-el.py - 4, Πηγαίος κώδικας με ελληνικά 
+ variable.py       - 5, Αντικείμενα
+ white-space.py    - 5, Εσοχή κώδικα
