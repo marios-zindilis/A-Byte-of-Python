@@ -17,3 +17,5 @@ For the original: http://www.swaroopch.com/notes/Python
  function-parameters.py - 8, Παράμετροι συναρτήσεων 
  function-locals.py     - 8, Χρήση τοπικών μεταβλητών 
  function-global.py     - 8, Χρήση της εντολής global 
+ function-defaults.py   - 8, Χρήση των προεπιλεγμένων τιμών ορισμάτων
+ function-keys.py       - 8, Χρήση των ορισμάτων με λέξεις-κλειδιά 
