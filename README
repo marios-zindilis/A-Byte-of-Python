@@ -21,3 +21,8 @@ For the original: http://www.swaroopch.com/notes/Python
  function-keys.py       - 8, Χρήση των ορισμάτων με λέξεις-κλειδιά 
  function-return.py     - 8, Χρήση της εντολής return 
  function-docstrings.py - 8, Χρήση των DocString 
+ using-sys.py           - 9, Χρήση του αρθρώματος sys
+ module_name.py         - 9, Χρήση της ιδιότητας __name__
+ my_module.py		- 9, Δημιουργία αρθρώματος 
+ my_module_demo.py	- 9, Δημιουργία αρθρώματος 
+
