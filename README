@@ -20,3 +20,4 @@ For the original: http://www.swaroopch.com/notes/Python
  function-defaults.py   - 8, Χρήση των προεπιλεγμένων τιμών ορισμάτων
  function-keys.py       - 8, Χρήση των ορισμάτων με λέξεις-κλειδιά 
  function-return.py     - 8, Χρήση της εντολής return 
+ function-docstrings.py - 8, Χρήση των DocString 
