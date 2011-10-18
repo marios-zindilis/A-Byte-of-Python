@@ -1,4 +1,6 @@
-Python scripts from the Greek translation of A Byte of Python.
+A collection of Python scripts from the Greek translation
+of A Byte of Python, and the wikicode of the book. 
+
 For the book see: http://zindilis.com/docs/A_Byte_of_Python
 For the original: http://www.swaroopch.com/notes/Python
 
@@ -25,4 +27,5 @@ For the original: http://www.swaroopch.com/notes/Python
  module_name.py         - 9, Χρήση της ιδιότητας __name__
  my_module.py		- 9, Δημιουργία αρθρώματος 
  my_module_demo.py	- 9, Δημιουργία αρθρώματος 
-
+ my_module_demo2.py     - 9, Η εντολή from..import 
+ 
